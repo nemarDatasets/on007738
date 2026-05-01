@@ -1,9 +1,0 @@
-{
-  "TaskName": "visualorient",
-  "SamplingFrequency": 8.98876404494382,
-  "NIRSChannelCount": 1134,
-  "NIRSSourceOptodeCount": 56,
-  "NIRSDetectorOptodeCount": 56,
-  "RecordingDuration": 387.26124999999996,
-  "TaskDescription": "Eye-movement-only baseline: subjects make 5 s eye orienting and fixation movements with no audiovisual stimuli and no fixation cross. Matches the overt task structure."
-}

@@ -1,9 +1,0 @@
-{
-  "TaskName": "overt",
-  "SamplingFrequency": 8.98876404494382,
-  "NIRSChannelCount": 1134,
-  "NIRSSourceOptodeCount": 56,
-  "NIRSDetectorOptodeCount": 56,
-  "RecordingDuration": 609.5387499999999,
-  "TaskDescription": "Spatial-attention task with overt eye movements: subjects move their eyes to attend to audiovisual stimuli (videos) on the cued side."
-}
