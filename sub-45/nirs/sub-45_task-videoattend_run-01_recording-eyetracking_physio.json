@@ -1,0 +1,22 @@
+{
+    "SamplingFrequency": 124.797,
+    "StartTime": 3.938267418997823,
+    "Columns": [
+        "timestamps",
+        "acceleration_x",
+        "acceleration_y",
+        "acceleration_z",
+        "gaze2dX",
+        "gaze2dY",
+        "eyeleft_pupilDiameter",
+        "eyeright_pupilDiameter"
+    ],
+    "Manufacturer": "Pupil Labs",
+    "DeviceModel": "Neon",
+    "AlignmentOffset_s": 2.393749999997823,
+    "AlignmentMethod": "xcorr (SY-NY/wide)",
+    "ManualOffsetCorrection_s": 0.0,
+    "SourceSnirfFile": "sub-45_task-overtcontrol_run-01_nirs.snirf",
+    "SourceNeonRecording": "U:\\eng_research_hrc_binauralhearinglab\\Sudan\\Labs\\Sen Lab\\Research_projects\\Whole_Head_Cocktail_party\\misc\\tobii_data_sudan\\sub-45\\overtcontrol_run-01",
+    "AlignmentCorrelation": 0.801
+}
