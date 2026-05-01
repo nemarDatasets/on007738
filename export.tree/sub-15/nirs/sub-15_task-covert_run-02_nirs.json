@@ -1,0 +1,9 @@
+{
+  "TaskName": "covert",
+  "SamplingFrequency": 8.988764,
+  "NIRSChannelCount": 1134,
+  "NIRSSourceOptodeCount": 56,
+  "NIRSDetectorOptodeCount": 144,
+  "RecordingDuration": 629.34125,
+  "TaskDescription": "Spatial-attention task with covert auditory attention: audio-only stimuli, subjects fixate the central plus sign and attend to left or right without eye movement."
+}
