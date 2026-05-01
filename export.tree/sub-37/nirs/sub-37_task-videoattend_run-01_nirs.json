@@ -1,9 +1,0 @@
-{
-  "TaskName": "videoattend",
-  "SamplingFrequency": 8.98876404494382,
-  "NIRSChannelCount": 1134,
-  "NIRSSourceOptodeCount": 56,
-  "NIRSDetectorOptodeCount": 56,
-  "RecordingDuration": 773.5212499999999,
-  "TaskDescription": "Same recording as longvisualorient, with events.tsv aligned to the onset of the video clip on the attended side (~15-17 s after the orienting cue) for video-locked GLM analysis."
-}

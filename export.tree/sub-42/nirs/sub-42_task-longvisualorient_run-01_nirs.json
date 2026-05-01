@@ -1,9 +1,0 @@
-{
-  "TaskName": "longvisualorient",
-  "SamplingFrequency": 8.98876404494382,
-  "NIRSChannelCount": 1134,
-  "NIRSSourceOptodeCount": 56,
-  "NIRSDetectorOptodeCount": 56,
-  "RecordingDuration": 778.63875,
-  "TaskDescription": "Orienting + visual attention recording, events.tsv aligned to the audiovisual orienting cue. Subjects orient their eyes to the cue; ~15-17 s later a video clip appears on the attended side. Same recording as the videoattend task; only the events.tsv differs."
-}

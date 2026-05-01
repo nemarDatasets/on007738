@@ -1,9 +1,0 @@
-{
-  "TaskName": "resting",
-  "SamplingFrequency": 8.98876404494382,
-  "NIRSChannelCount": 1134,
-  "NIRSSourceOptodeCount": 56,
-  "NIRSDetectorOptodeCount": 56,
-  "RecordingDuration": 336.53125,
-  "TaskDescription": "Resting-state recording: 5 minutes of central-fixation with no task; subjects fixate a plus sign on the center monitor."
-}
