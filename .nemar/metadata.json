@@ -1,0 +1,40 @@
+{
+  "version": "2.0",
+  "dataset_id": "on007738",
+  "source": "openneuro",
+  "source_id": "ds007738",
+  "title": "Whole-Head Cocktail Party fNIRS",
+  "authors": {
+    "Sudan Duwadi": {},
+    "De'Ja Rogers": {},
+    "Alex D. Boyd": {},
+    "Laura B. Carlton": {},
+    "Yiwen Zhang": {},
+    "Anna Kawai Gaona": {},
+    "Aneesa Diya Pathiyaparambath": {},
+    "Ravin Chaudhury": {},
+    "Bernhard B Zimmermann": {},
+    "Walker J O'Brien": {},
+    "Alexander von Lühmann": {},
+    "David A. Boas": {},
+    "Meryem A. Yücel": {},
+    "Kamal Sen": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds007738.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.7.1",
+  "recording_modality": [
+    "nirs"
+  ],
+  "datatypes": [
+    "nirs"
+  ]
+}
