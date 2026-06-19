@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on007738",
-  "source": "openneuro",
-  "source_id": "ds007738",
+  "pipeline_stage": "validated",
   "title": "Whole-Head Cocktail Party fNIRS",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Sudan Duwadi": {},
     "De'Ja Rogers": {},
@@ -20,21 +20,61 @@
     "Meryem A. Yücel": {},
     "Kamal Sen": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007738.v1.0.0",
       "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on007738",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on007738",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.7.1",
-  "recording_modality": [
+  "modalities": [
     "nirs"
   ],
-  "datatypes": [
-    "nirs"
-  ]
+  "resource_type_specific": "fNIRS Dataset",
+  "sizes": [
+    "34.7 GB (351 files)"
+  ],
+  "formats": [
+    ".json",
+    ".md",
+    ".snirf",
+    ".tsv",
+    ".yml"
+  ],
+  "description": "This dataset comprises whole-head functional near-infrared spectroscopy (fNIRS) recordings from 38 subjects performing spatial-attention tasks in a cocktail-party paradigm with simultaneous eye-tracking. The study includes both overt attention tasks with eye movements and covert auditory attention tasks with central fixation, along with baseline and resting-state conditions. The fNIRS system captured 1134 measurement channels (56 sources, 144 detectors) at approximately 8.99 Hz sampling rate, providing comprehensive hemodynamic measurements during naturalistic audiovisual stimulus processing.",
+  "methods_description": "Whole-head fNIRS recordings were acquired using 56 sources and 144 detectors yielding 1134 measurement channels at ~8.99 Hz sampling rate. Simultaneous eye-tracking was performed during multiple task conditions: overt spatial attention with eye movements to audiovisual stimuli, covert auditory attention with central fixation, eye-movement-only baseline, resting-state with central fixation, and video-attention tasks. No anatomical imaging data were collected.",
+  "keywords": [
+    {
+      "term": "fNIRS"
+    },
+    {
+      "term": "functional near-infrared spectroscopy"
+    },
+    {
+      "term": "spatial attention"
+    },
+    {
+      "term": "cocktail party effect"
+    },
+    {
+      "term": "eye tracking"
+    },
+    {
+      "term": "hemodynamics"
+    },
+    {
+      "term": "audiovisual integration"
+    }
+  ],
+  "source_hash": "b60c22ec3259df79f8ccbf91821c173b9d1ef571e64402044178d42dffdff0e1"
 }
