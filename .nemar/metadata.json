@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Whole-Head Cocktail Party fNIRS",
+  "description": "Whole-head functional near-infrared spectroscopy (fNIRS) recordings from 38 participants performing covert and overt spatial-attention tasks in a cocktail-party paradigm, with simultaneous eye tracking. The montage comprises 56 sources and 144 detectors, yielding 1134 measurement channels sampled at about 8.99 Hz. Tasks include overt and covert attention, a visual orienting baseline, resting state, and video-locked attention recordings.",
+  "methods_description": "fNIRS was recorded with 56 sources and 144 detectors (1134 channels, ~8.99 Hz) alongside eye tracking. Participants performed overt audiovisual spatial attention, covert auditory attention with central fixation, eye-movement-only orienting, and 5-minute resting fixation tasks. Events were aligned either to the orienting cue or to video onset for GLM analysis.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -20,6 +22,33 @@
     "Meryem A. Yücel": {},
     "Kamal Sen": {}
   },
+  "keywords": [
+    {
+      "term": "fNIRS"
+    },
+    {
+      "term": "cocktail party"
+    },
+    {
+      "term": "spatial attention"
+    },
+    {
+      "term": "eye tracking"
+    },
+    {
+      "term": "auditory attention"
+    },
+    {
+      "term": "Spectroscopy, Near-Infrared",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D019265"
+    },
+    {
+      "term": "Attention",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D001288"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007738.v1.0.0",
@@ -32,17 +61,17 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on007738",
+      "identifier": "https://nemar.org/dataset/on007738",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
     }
   ],
+  "resource_type_specific": "fNIRS Dataset",
   "modalities": [
     "nirs"
   ],
-  "resource_type_specific": "fNIRS Dataset",
   "sizes": [
-    "34.7 GB (351 files)"
+    "32.28 GB (351 files)"
   ],
   "formats": [
     ".json",
@@ -50,31 +79,6 @@
     ".snirf",
     ".tsv",
     ".yml"
-  ],
-  "description": "This dataset comprises whole-head functional near-infrared spectroscopy (fNIRS) recordings from 38 subjects performing spatial-attention tasks in a cocktail-party paradigm with simultaneous eye-tracking. The study includes both overt attention tasks with eye movements and covert auditory attention tasks with central fixation, along with baseline and resting-state conditions. The fNIRS system captured 1134 measurement channels (56 sources, 144 detectors) at approximately 8.99 Hz sampling rate, providing comprehensive hemodynamic measurements during naturalistic audiovisual stimulus processing.",
-  "methods_description": "Whole-head fNIRS recordings were acquired using 56 sources and 144 detectors yielding 1134 measurement channels at ~8.99 Hz sampling rate. Simultaneous eye-tracking was performed during multiple task conditions: overt spatial attention with eye movements to audiovisual stimuli, covert auditory attention with central fixation, eye-movement-only baseline, resting-state with central fixation, and video-attention tasks. No anatomical imaging data were collected.",
-  "keywords": [
-    {
-      "term": "fNIRS"
-    },
-    {
-      "term": "functional near-infrared spectroscopy"
-    },
-    {
-      "term": "spatial attention"
-    },
-    {
-      "term": "cocktail party effect"
-    },
-    {
-      "term": "eye tracking"
-    },
-    {
-      "term": "hemodynamics"
-    },
-    {
-      "term": "audiovisual integration"
-    }
   ],
   "source_hash": "b60c22ec3259df79f8ccbf91821c173b9d1ef571e64402044178d42dffdff0e1"
 }
