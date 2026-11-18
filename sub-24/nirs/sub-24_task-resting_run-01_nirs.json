@@ -5,5 +5,9 @@
   "NIRSSourceOptodeCount": 56,
   "NIRSDetectorOptodeCount": 144,
   "RecordingDuration": 324.96125,
-  "TaskDescription": "Resting-state recording: 5 minutes of central-fixation with no task; subjects fixate a plus sign on the center monitor."
+  "TaskDescription": "Resting-state recording: 5 minutes of central-fixation with no task; subjects fixate a plus sign on the center monitor.",
+  "RecordingType": "continuous",
+  "Manufacturer": "in-house developed",
+  "ManufacturersModelName": "NINJANIRS22",
+  "CapManufacturersModelName": "custom"
 }

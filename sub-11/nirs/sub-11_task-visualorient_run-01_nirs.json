@@ -5,5 +5,9 @@
   "NIRSSourceOptodeCount": 56,
   "NIRSDetectorOptodeCount": 144,
   "RecordingDuration": 376.47,
-  "TaskDescription": "Eye-movement-only baseline: subjects make 5 s eye orienting and fixation movements with no audiovisual stimuli and no fixation cross. Matches the overt task structure."
+  "TaskDescription": "Eye-movement-only baseline: subjects make 5 s eye orienting and fixation movements with no audiovisual stimuli and no fixation cross. Matches the overt task structure.",
+  "RecordingType": "continuous",
+  "Manufacturer": "in-house developed",
+  "ManufacturersModelName": "NINJANIRS22",
+  "CapManufacturersModelName": "custom"
 }

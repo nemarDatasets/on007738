@@ -1,2 +1,10 @@
+1.0.1 2026-11-18
+  - 222 sub-*/nirs/*_channels.tsv added from the SNIRF measurement list (column status n/a: no channel quality assessment was made); 38 *_optodes.tsv and 38 *_coordsystem.json added from SNIRF /nirs/probe (NIRSCoordinateSystem Other, with a description)
+  - 121 *_nirs.json: NIRSDetectorOptodeCount 56 -> 144 (SNIRF /nirs/probe; README: 56 sources, 144 detectors)
+  - 222 *_nirs.json: Manufacturer, ManufacturersModelName (in-house NINJANIRS22) and CapManufacturersModelName (custom 3D-printed cap) added (doi:10.1016/j.neuroimage.2026.122292, Methods); RecordingType "continuous"
+  - dataset_description.json: DatasetType "raw", ReferencesAndLinks, HowToAcknowledge, EthicsApprovals and Funding added from doi:10.1016/j.neuroimage.2026.122292 (texts checked in its CC-BY preprint doi:10.1101/2026.05.06.722322); that paper is linked to this dataset by matching facts only (same authors and topic; its data statement names OpenNeuro without an accession)
+  - sourcedata/: the published versions of the files whose values change in this version (121 nirs.json), byte-identical at the same relative path (plain git files)
+  - README.md: new section "Contributed notes (version 1.0.1)"
+  - dataset_description.json: Version 1.0.0 -> 1.0.1
 1.0.0 2026-05-01
   - fresh new upload

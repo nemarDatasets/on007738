@@ -3,7 +3,11 @@
   "SamplingFrequency": 8.98876404494382,
   "NIRSChannelCount": 1134,
   "NIRSSourceOptodeCount": 56,
-  "NIRSDetectorOptodeCount": 56,
+  "NIRSDetectorOptodeCount": 144,
   "RecordingDuration": 624.78,
-  "TaskDescription": "Spatial-attention task with covert auditory attention: audio-only stimuli, subjects fixate the central plus sign and attend to left or right without eye movement."
+  "TaskDescription": "Spatial-attention task with covert auditory attention: audio-only stimuli, subjects fixate the central plus sign and attend to left or right without eye movement.",
+  "RecordingType": "continuous",
+  "Manufacturer": "in-house developed",
+  "ManufacturersModelName": "NINJANIRS22",
+  "CapManufacturersModelName": "custom"
 }

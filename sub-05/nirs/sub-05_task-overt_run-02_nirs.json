@@ -5,5 +5,9 @@
   "NIRSSourceOptodeCount": 56,
   "NIRSDetectorOptodeCount": 144,
   "RecordingDuration": 616.9925,
-  "TaskDescription": "Spatial-attention task with overt eye movements: subjects move their eyes to attend to audiovisual stimuli (videos) on the cued side."
+  "TaskDescription": "Spatial-attention task with overt eye movements: subjects move their eyes to attend to audiovisual stimuli (videos) on the cued side.",
+  "RecordingType": "continuous",
+  "Manufacturer": "in-house developed",
+  "ManufacturersModelName": "NINJANIRS22",
+  "CapManufacturersModelName": "custom"
 }
